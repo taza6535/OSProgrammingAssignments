@@ -1,5 +1,5 @@
 # CU Boulder Operating Systems (CSCI3753) Programming Assignments 
-This is a repository for some of the programming assignments I have completed for the CSCI3753 Operating Systems class at CU Boulder.
+This is a repository for some of the programming assignments I have completed for the CSCI3753 Operating Systems class at CU Boulder. All assignments are done in C.
 # Simple Character Device Driver
 Implementation of a simple character device driver using Loadable Kernel Modules (LKMs). Also has a user test program where a user can use commands to write, seek, and read from a file using the character device driver. 
 
